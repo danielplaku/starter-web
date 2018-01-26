@@ -12,6 +12,8 @@ As started above, the main purpose is to provide simple examples for Git trainin
 
 ## Deployment
 
-This is a simple web preject, deployment can be on any web server or even locsl file system.
+This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
+
+Write some code into html and css file.
