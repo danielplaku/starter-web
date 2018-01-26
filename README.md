@@ -8,6 +8,10 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
+As started above, the main purpose is to provide simple examples for Git training demos.
+
 ## Deployment
+
+This is a simple web preject, deployment can be on any web server or even locsl file system.
 
 ## How To Contribute
